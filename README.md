@@ -1,7 +1,9 @@
-# movielens
+# HarvardX - Capstone Project: MovieLens
 
-HarvardX - Capstone Project: movielens
-Data Science Capstone Project of the edx course HarvardX In R Programming Language
-Data References: movielens
+## Data Science Capstone Project of the edx course HarvardX In R Programming Language
 
-This dataset is also available from the UCI machine learning repository,movielens
+movielens-validationSet-finalhold-out-test-set.pdf
+
+Data References: [MovieLens](http://files.grouplens.org/dataset/movielens/ml-10m.zip)
+
+
